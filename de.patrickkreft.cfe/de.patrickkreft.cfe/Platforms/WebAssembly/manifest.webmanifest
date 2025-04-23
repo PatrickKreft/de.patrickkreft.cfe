@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "de.patrickkreft.cfe",
+  "display": "standalone",
+  "name": "de.patrickkreft.cfe",
+  "short_name": "de.patrickkreft.cfe",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
