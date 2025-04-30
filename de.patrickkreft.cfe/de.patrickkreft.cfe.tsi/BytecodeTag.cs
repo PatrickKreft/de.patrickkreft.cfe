@@ -1,8 +1,10 @@
 ﻿namespace de.patrickkreft.cfe.tsi;
 
+[Serializable]
 public enum BytecodeTag
 {
     None = 0,
+    
     FileStart,
     FileEnd,
     NamespaceStart,
