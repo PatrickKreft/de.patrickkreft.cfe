@@ -6,6 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\de.patrickkreft.cfe.Kernel\de.patrickkreft.cfe.Kernel.csproj" />
         <ProjectReference Include="..\de.patrickkreft.cfe\de.patrickkreft.cfe.csproj"
                           SetTargetFramework="TargetFramework=net9.0-browserwasm"
                           ReferenceOutputAssembly="false"/>

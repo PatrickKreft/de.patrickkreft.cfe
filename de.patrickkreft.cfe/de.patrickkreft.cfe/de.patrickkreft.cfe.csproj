@@ -55,6 +55,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\de.patrickkreft.cfe.DataContracts\de.patrickkreft.cfe.DataContracts.csproj"/>
+        <ProjectReference Include="..\de.patrickkreft.cfe.Kernel\de.patrickkreft.cfe.Kernel.csproj" />
     </ItemGroup>
 
 </Project>
