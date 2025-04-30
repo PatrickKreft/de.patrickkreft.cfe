@@ -5,6 +5,7 @@ public enum BytecodeTag
 {
     None = 0,
     
+    // Structure Elements
     FileStart,
     FileEnd,
     NamespaceStart,
@@ -18,5 +19,12 @@ public enum BytecodeTag
     MethodStart,
     MethodEnd,
     PropertyStart,
-    PropertyEnd
+    PropertyEnd,
+    
+    // Primary Expression 
+    TypeStart,
+    TypeEnd,
+    ValueStart,
+    ValueEnd,
+    
 }
